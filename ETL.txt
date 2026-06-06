@@ -1,0 +1,27 @@
+ETL
+
+three json file
+patients details
+health details
+finance detaisl
+
+load data without package
+
+try catch implemented 
+
+sturtured it clean , and converted in data frame
+
+laod clean data in drive in csv file
+
+
+
+first learn naive bayes algo gradeietn desent
+
+fundaments of extreme boosting, random forest, desion tree mathematical working like dervivation(formula)
+
+
+semon's health care company data sample dataset
+do analysis simple EDA
+
+
+anova, t test basis how we use in real time 
