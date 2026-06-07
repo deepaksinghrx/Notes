@@ -1,0 +1,74 @@
+{
+    "payments": [
+        {
+            "patientId": "P001",
+            "billAmount": 2500,
+            "paymentMode": "UPI",
+            "insurance": "Yes",
+            "status": "Paid"
+        },
+        {
+            "patientId": "P002",
+            "billAmount": 1800,
+            "paymentMode": null,
+            "insurance": "No",
+            "status": "Paid"
+        },
+        {
+            "patientId": "P003",
+            "billAmount": 3200,
+            "paymentMode": "Card",
+            "insurance": "Yes",
+            "status": "Pending"
+        },
+        {
+            "patientId": "P004",
+            "billAmount": 1500,
+            "paymentMode": "UPI",
+            "insurance": "No",
+            "status": "Paid"
+        },
+        {
+            "patientId": "P005",
+            "billAmount": 5000,
+            "paymentMode": "Insurance",
+            "insurance": "Yes",
+            "status": "Approved"
+        },
+        {
+            "patientId": "P006",
+            "billAmount": 2100,
+            "paymentMode": null,
+            "insurance": "No",
+            "status": "Paid"
+        },
+        {
+            "patientId": "P007",
+            "billAmount": 2700,
+            "paymentMode": "Card",
+            "insurance": "Yes",
+            "status": "Pending"
+        },
+        {
+            "patientId": "P008",
+            "billAmount": 1900,
+            "paymentMode": "Cash",
+            "insurance": "No",
+            "status": "Paid"
+        },
+        {
+            "patientId": "P009",
+            "billAmount": 3500,
+            "paymentMode": "UPI",
+            "insurance": "Yes",
+            "status": "Paid"
+        },
+        {
+            "patientId": "P010",
+            "billAmount": 2200,
+            "paymentMode": "Card",
+            "insurance": "No",
+            "status": "Pending"
+        }
+    ]
+}

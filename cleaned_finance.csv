@@ -1,0 +1,11 @@
+patientId,billAmount,paymentMode,insurance,status
+P001,2500,UPI,Y,Paid
+P002,1800,Cash,N,Paid
+P003,3200,Card,Y,Pending
+P004,1500,UPI,N,Paid
+P005,5000,Insurance,Y,Approved
+P006,2100,Cash,N,Paid
+P007,2700,Card,Y,Pending
+P008,1900,Cash,N,Paid
+P009,3500,UPI,Y,Paid
+P010,2200,Card,N,Pending
