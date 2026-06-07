@@ -1,0 +1,11 @@
+patientId,firstName,lastName,age,gender,city,contact,bloodGroup,heightCm,weightKg,disease,lastVisit,billAmount,paymentMode,insurance,status
+P001,Rajesh,Kumar,34.0,M,Delhi,9415632581,B+,165.625,75.0,Hypertension,2026-05-10,2500,UPI,Y,Paid
+P002,Sunita,Sharma,28.0,F,Mumbai,9854125763,O+,160.0,58.0,Anemia,2026-04-22,1800,Cash,N,Paid
+P003,Amit,Patel,45.0,M,Bangalore,9651245854,A+,165.625,82.0,Diabetes,2026-05-01,3200,Card,Y,Pending
+P004,Meera,Singh,37.0,F,Chennai,7451254638,AB+,155.0,72.5,Migraine,2026-05-18,1500,UPI,N,Paid
+P005,Ramesh,Gupta,50.0,M,Kolkata,not provided,B-,170.0,85.0,Heart Disease,2026-03-30,5000,Insurance,Y,Approved
+P006,Pooja,Verma,26.0,F,Jaipur,6987451236,O-,162.0,55.0,Thyroid,2026-04-15,2100,Cash,N,Paid
+P007,Vikas,Yadav,37.0,M,Pune,7845123658,Unknown,175.0,78.0,Asthma,2026-05-20,2700,Card,Y,Pending
+P008,Anita,Reddy,42.0,F,Hyderabad,9845671230,AB-,158.0,72.5,Arthritis,2026-05-05,1900,Cash,N,Paid
+P009,Suresh,Singh,37.0,M,Ahmedabad,not provided,B+,180.0,88.0,Obesity,2026-04-28,3500,UPI,Y,Paid
+P010,Kavita,Joshi,29.0,F,Lucknow,9890011223,O+,165.0,59.0,PCOS,2026-05-12,2200,Card,N,Pending

@@ -1,0 +1,11 @@
+patientId,firstName,lastName,age,gender,city,contact
+P001,Rajesh,Kumar,34.0,M,Delhi,9415632581
+P002,Sunita,Sharma,28.0,F,Mumbai,9854125763
+P003,Amit,Patel,45.0,M,Bangalore,9651245854
+P004,Meera,Singh,37.0,F,Chennai,7451254638
+P005,Ramesh,Gupta,50.0,M,Kolkata,not provided
+P006,Pooja,Verma,26.0,F,Jaipur,6987451236
+P007,Vikas,Yadav,37.0,M,Pune,7845123658
+P008,Anita,Reddy,42.0,F,Hyderabad,9845671230
+P009,Suresh,Singh,37.0,M,Ahmedabad,not provided
+P010,Kavita,Joshi,29.0,F,Lucknow,9890011223

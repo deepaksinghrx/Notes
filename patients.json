@@ -1,0 +1,103 @@
+{
+    "patients": [
+        {
+            "patientId": "P001",
+            "firstName": "Rajesh",
+            "lastName": "Kumar",
+            "age": 34,
+            "gender": "Male",
+            "city": "Delhi",
+            "contact": "9415632581"
+        },
+        {
+            "patientId": "P002",
+            "firstName": "Sunita",
+            "lastName": "Sharma",
+            "age": 28,
+            "gender": "Female",
+            "city": "Mumbai",
+            "contact": "9854125763"
+        },
+        {
+            "patientId": "P003",
+            "firstName": "Amit",
+            "lastName": "Patel",
+            "age": 45,
+            "gender": "Male",
+            "city": "Bangalore",
+            "contact": "9651245854"
+        },
+        {
+            "patientId": "P004",
+            "firstName": "Meera",
+            "lastName": "Singh",
+            "age": null,
+            "gender": "Female",
+            "city": "Chennai",
+            "contact": "7451254638"
+        },
+        {
+            "patientId": "P005",
+            "firstName": "Ramesh",
+            "lastName": "Gupta",
+            "age": 50,
+            "gender": "Male",
+            "city": "Kolkata",
+            "contact": null
+        },
+        {
+            "patientId": "P006",
+            "firstName": "Pooja",
+            "lastName": "Verma",
+            "age": 26,
+            "gender": "Female",
+            "city": "Jaipur",
+            "contact": "6987451236"
+        },
+        {
+            "patientId": "P007",
+            "firstName": "Vikas",
+            "lastName": "Yadav",
+            "age": null,
+            "gender": "Male",
+            "city": "Pune",
+            "contact": "7845123658"
+        },
+        {
+            "patientId": "P008",
+            "firstName": "Anita",
+            "lastName": "Reddy",
+            "age": 42,
+            "gender": "Female",
+            "city": "Hyderabad",
+            "contact": "9845671230"
+        },
+        {
+            "patientId": "P008",
+            "firstName": "Anita",
+            "lastName": "Reddy",
+            "age": 42,
+            "gender": "Female",
+            "city": "Hyderabad",
+            "contact": "9845671230"
+        },
+        {
+            "patientId": "P009",
+            "firstName": "Suresh",
+            "lastName": "Singh",
+            "age": null,
+            "gender": "Male",
+            "city": "Ahmedabad",
+            "contact": null
+        },
+        {
+            "patientId": "P010",
+            "firstName": "Kavita",
+            "lastName": "Joshi",
+            "age": 29,
+            "gender": "Female",
+            "city": "Lucknow",
+            "contact": "9890011223"
+        }
+    ]
+}

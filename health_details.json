@@ -1,0 +1,84 @@
+{
+    "healthRecords": [
+        {
+            "patientId": "P001",
+            "bloodGroup": "B+",
+            "heightCm":null ,
+            "weightKg": 75,
+            "disease": "Hypertension",
+            "lastVisit": "2026-05-10"
+        },
+        {
+            "patientId": "P002",
+            "bloodGroup": "O+",
+            "heightCm": 160,
+            "weightKg": 58,
+            "disease": "Anemia",
+            "lastVisit": "2026-04-22"
+        },
+        {
+            "patientId": "P003",
+            "bloodGroup": "A+",
+            "heightCm": null,
+            "weightKg": 82,
+            "disease": "Diabetes",
+            "lastVisit": "2026-05-01"
+        },
+        {
+            "patientId": "P004",
+            "bloodGroup": "AB+",
+            "heightCm": 155,
+            "weightKg":null ,
+            "disease": "Migraine",
+            "lastVisit": "2026-05-18"
+        },
+        {
+            "patientId": "P005",
+            "bloodGroup": "B-",
+            "heightCm": 170,
+            "weightKg": 85,
+            "disease": "Heart Disease",
+            "lastVisit": "2026-03-30"
+        },
+        {
+            "patientId": "P006",
+            "bloodGroup": "O-",
+            "heightCm": 162,
+            "weightKg": 55,
+            "disease": "Thyroid",
+            "lastVisit": "2026-04-15"
+        },
+        {
+            "patientId": "P007",
+            "bloodGroup": null,
+            "heightCm": 175,
+            "weightKg": 78,
+            "disease": "Asthma",
+            "lastVisit": "2026-05-20"
+        },
+        {
+            "patientId": "P008",
+            "bloodGroup": "AB-",
+            "heightCm": 158,
+            "weightKg": null,
+            "disease": "Arthritis",
+            "lastVisit": "2026-05-05"
+        },
+        {
+            "patientId": "P009",
+            "bloodGroup": "B+",
+            "heightCm": 180,
+            "weightKg": 88,
+            "disease": "Obesity",
+            "lastVisit": "2026-04-28"
+        },
+        {
+            "patientId": "P010",
+            "bloodGroup": "O+",
+            "heightCm": 165,
+            "weightKg": 59,
+            "disease": "PCOS",
+            "lastVisit": "2026-05-12"
+        }
+    ]
+}
