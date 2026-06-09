@@ -1,27 +1,17 @@
-ETL
+Subject: Request to Attend Training via Teams
 
-three json file
-patients details
-health details
-finance detaisl
+Good Afternoon Ma'am,
 
-load data without package
+I am Deepak, working as a Reporting Analyst.
 
-try catch implemented 
+I would like to inform you that I need to visit my college for the next two days (tomorrow and the day after tomorrow) for my final-year project submission and evaluation.
 
-sturtured it clean , and converted in data frame
+Therefore, I would like to request permission to attend the training sessions remotely through Microsoft Teams, if possible. I will ensure my full participation and remain available throughout the training.
 
-laod clean data in drive in csv file
+Kindly let me know if this arrangement can be accommodated.
 
+Thank you for your consideration.
 
-
-first learn naive bayes algo gradeietn desent
-
-fundaments of extreme boosting, random forest, desion tree mathematical working like dervivation(formula)
-
-
-semon's health care company data sample dataset
-do analysis simple EDA
-
-
-anova, t test basis how we use in real time 
+Regards,
+Deepak Singh Kushwaha
+Reporting Analyst
