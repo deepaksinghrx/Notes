@@ -1,31 +1,4 @@
-https://teams.microsoft.com/meet/49786734595974?p=rFjkForlUFgwmqD8FZ
-Here is a comprehensive Project Documentation Report for your college submission. It covers the architecture, technology stack, and technical implementation details.
-
-PROJECT REPORT: GU HEALTH MIND
-
-AI-Powered Mental Health Prediction Application
-1. ABSTRACT
-GU Health Mind is a modern Android application designed to provide preliminary mental health screenings using Artificial Intelligence. By leveraging Natural Language Processing (NLP) through a remote web API, the application analyzes user-provided text input to predict potential mental health issues like Anxiety, Depression, Stress, Bipolar Disorder, or Suicidal tendencies. The app is built using industry-standard Clean Architecture and MVI (Model-View-Intent) patterns to ensure scalability and maintainability.
-2. OBJECTIVES
-•
-To create an intuitive interface for users to describe their emotional state.
-•
-To integrate a remote AI model via REST API for real-time analysis.
-•
-To implement a robust filtering algorithm that identifies only high-risk categories (Class 1) and selects the most probable issue.
-•
-To provide a premium user experience through modern Jetpack Compose animations and "Glassmorphism" UI design.
-3. SYSTEM ARCHITECTURE
-The project follows Clean Architecture principles, divided into three distinct layers:
-3.1 Domain Layer (Business Logic)
-•
-Entities: Pure Kotlin data classes (e.g., PredictionResult) representing the core business models.
-•
-Use Cases: Contains the "GetPredictionUseCase," which encapsulates the business logic of filtering API responses to find the maximum probability among positive detections.
-3.2 Data Layer (Infrastructure)
-•
-Repository Pattern: Implementation of the domain repository.
-•
+https://colab.research.google.com/#fileId=https%3A//storage.googleapis.com/kaggle-colab-exported-notebooks/aryan22796/liner-reg-1.29b9ab70-7870-4865-aceb-a0bc07a01e92.ipynb%3FX-Goog-Algorithm%3DGOOG4-RSA-SHA256%26X-Goog-Credential%3Dgcp-kaggle-com%2540kaggle-161607.iam.gserviceaccount.com/20260611/auto/storage/goog4_request%26X-Goog-Date%3D20260611T040437Z%26X-Goog-Expires%3D259200%26X-Goog-SignedHeaders%3Dhost%26X-Goog-Signature%3D5e244d5201663593baa19a936805c7650d6b74155a9758977ea33a99620a8935881a6acc5dd2a34db78bb4a8e397a0f4f316c0f08d06f3a1a4a9af5f89e4d6f9e9a83f7d17a753cd81a88ca4886352741436a9af811cd6521bd99c14c8bcebc007d3639b8a629b5334b07baa46fa39547404fe5a946d9b1472743b6c28535f4ca5bbf81cfbba03deba78d75843e7dfdf7b438ad1df1060e863eb0a8018193fdd223d6c9e7c548f17b9601a2f4abdc8b8e18e622814836674fc083b12409f93c826730ce67356aa8ef4cb1dd7a0391ea911544613b1d2a392808373bdddf7b38a12ed254534eb1ff508b2ecc927658b61ed1e65321c569c8cadb45266814f73d9•
 Remote Source: Uses Ktor Client for asynchronous network requests.
 •
 DTOs: Data Transfer Objects used for JSON parsing via Kotlinx Serialization.
