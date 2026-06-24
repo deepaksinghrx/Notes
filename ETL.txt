@@ -1,7 +1,7 @@
-[6/23, 5:11 PM] +91 97738 48078: New project for week 3
+New project for week 3
 Complete durg test find the patient who will prefer the durg and and drug uses test 
 Using anova t test and ztesand chi-sequare tese
-[6/23, 5:15 PM] +91 97738 48078: ata = {
+data = {
 
     'Age':[45,50,42,48,52,46,44,49,51],
 
@@ -26,7 +26,8 @@ df = pd.DataFrame(data)
 df['BP_Reduction'] = df['BP_Before'] - df['BP_After']
 
 print(df)
-[6/23, 10:20 PM] +91 97738 48078: Please take help from others if you face any difficulties, but remember that this is one of the most important projects.
+
+Please take help from others if you face any difficulties, but remember that this is one of the most important projects.
 
 After this, there will be only one final project remaining, and then we will move on to one last end-to-end project.
 
