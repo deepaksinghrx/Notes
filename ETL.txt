@@ -1,1 +1,45 @@
+[6/23, 5:11 PM] +91 97738 48078: New project for week 3
+Complete durg test find the patient who will prefer the durg and and drug uses test 
+Using anova t test and ztesand chi-sequare tese
+[6/23, 5:15 PM] +91 97738 48078: ata = {
+
+    'Age':[45,50,42,48,52,46,44,49,51],
+
+    'Gender':['M','F','M','F','M','F','M','F','M'],
+
+    'Treatment':['A','A','A','B','B','B','C','C','C'],
+
+    'BP_Before':[150,160,145,155,165,150,158,162,170],
+
+    'BP_After':[135,140,130,125,130,120,118,122,125],
+
+    'PainScore':[3,2,4,1,2,1,1,2,1],
+
+    'RecoveryDays':[10,12,9,7,8,6,5,6,5],
+
+    'Recovered':['No','No','No','Yes','No','Yes','Yes','Yes','Yes']
+
+}
+
+df = pd.DataFrame(data)
+
+df['BP_Reduction'] = df['BP_Before'] - df['BP_After']
+
+print(df)
+[6/23, 10:20 PM] +91 97738 48078: Please take help from others if you face any difficulties, but remember that this is one of the most important projects.
+
+After this, there will be only one final project remaining, and then we will move on to one last end-to-end project.
+
+This is your opportunity to learn and improve as much as possible. You should focus on being strong in all areas, including:
+
+• Communication
+• Understanding and defining the problem statement
+• Writing clean and efficient code
+• Building a proper project flow
+• Exploratory Data Analysis (EDA)
+• Machine Learning model development
+• Storytelling and presentation of insights
+
+Make the most of this chance and give your best effort.
+
 https://teams.microsoft.com/meet/49786734595974?p=rFjkForlUFgwmqD8FZ
