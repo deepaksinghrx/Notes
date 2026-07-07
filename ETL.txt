@@ -1,4 +1,20 @@
-import os 
+import os
+
+from google.cloud import bigquery
+
+project_id = os.environ["project-f98c8eb0-6f77-4999-8ee"]
+
+dataset = os.environ["etl_job"]
+
+table = os.environ["banking etl"]
+
+client = bigquery.Client (project = project_id) query = f"""
+
+Create or replace table `{project id}.{dataset}.{table}` as select * from `{project id}.etl job.banking etl
+
+limit 100"""
+
+client.query(query).result() print("etl job done)import os 
  from google.cloud import bigquery 
 
  def run_etl(): 
